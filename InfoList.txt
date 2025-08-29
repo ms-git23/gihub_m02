@@ -1,0 +1,7 @@
+New Reporting tools: 
+- Light Dash
+https://www.lightdash.com/
+
+- Omni 
+Omni vs Tableau Comaparison
+https://omni.co/omni-vs-tableau#:~:text=See%20how%20Omni%27s%20dbt%20integration%20compares%20to%20Tableau%27s
